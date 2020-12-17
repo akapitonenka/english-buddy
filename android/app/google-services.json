@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540172643737",
+    "firebase_url": "https://english-buddy-9e407.firebaseio.com",
+    "project_id": "english-buddy-9e407",
+    "storage_bucket": "english-buddy-9e407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540172643737:android:2c11ce2aade130e32db708",
+        "android_client_info": {
+          "package_name": "com.akapitonenka.english_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540172643737-c49dbiceumj9d8iqljlgirtsg6n5to9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVQ1d2GKMbl39rWugq5jQAT2iHPVVUrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540172643737-c49dbiceumj9d8iqljlgirtsg6n5to9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
